@@ -3,13 +3,13 @@
 ### 📝 Description:
 
 On Google chrome there is no option to close all tabls to the left!
-![alt tag](https://raw.githubusercontent.com/fr1sk/chrome-close-to-the-left/master/git-resources/chrome.png)
+![alt tag](https://raw.githubusercontent.com/fr1sk/chrome-close-to-the-left/master/git-resources/chrome.png =221x257)
 This extension allows the user to close chrome tabs to the left, with one press of the button
 
 ------
 ### 💻 Demo:
 
-![alt tag](https://raw.githubusercontent.com/fr1sk/chrome-close-to-the-left/master/git-resources/demo.gif)
+![alt tag](https://raw.githubusercontent.com/fr1sk/chrome-close-to-the-left/master/git-resources/demo.gif )
 
 ------
 ### 📦 How to install:
