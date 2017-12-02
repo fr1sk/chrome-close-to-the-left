@@ -1,5 +1,5 @@
 # ❌ Close Tabs To The Left
-=====
+======
 ### 📝 Description:
 ------
 On Google chrome there is no option to close all tabls to the left
