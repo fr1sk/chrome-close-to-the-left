@@ -24,7 +24,7 @@ This extension allows the user to close chrome tabs to the left, with one press 
 ------
 ### 📟 Technologies:
 
-* Vanilla JS
+* JavaScript
 
 ------
 
